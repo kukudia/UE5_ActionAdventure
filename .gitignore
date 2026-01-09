@@ -72,34 +72,3 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-
-# 忽略插件缓存
-Plugins/*/Binaries/
-Plugins/*/Intermediate/
-Plugins/*/Saved/
-
-# 忽略项目生成的文件
-Config/Default*.ini
-Config/Android/AndroidEngine.ini
-Config/HoloLens/HoloLensEngine.ini
-Config/IOS/IOSEngine.ini
-Config/Linux/LinuxEngine.ini
-Config/Mac/MacEngine.ini
-Config/OpenGLDrv/OpenGL*.ini
-Config/Steam/SteamEngine.ini
-Config/Windows/WindowsEngine.ini
-Config/XboxOne/XboxOneEngine.ini
-
-# 忽略版本控制元数据
-.git
-.gitmodules
-.gitattributes
-
-# 忽略IDE配置
-.vscode/
-.idea/
-*.code-workspace
-
-# 忽略文档生成
-Documentation/Doxygen/
-Documentation/HTML/
