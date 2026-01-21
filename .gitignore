@@ -74,3 +74,6 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 Content/02_StaticMesh/SM_MERGED_SM_MERGED_SM_External_body_05_22.uasset
 Content/UndeadLands/Models/SM_rock-wall1.uasset
+Content/ParagonMinions/Characters/Global/MaterialLayers/Wood/T_TreeBark_D.uasset
+Content/ParagonMinions/Characters/Global/MaterialLayers/Wood/T_TreeBark_N.uasset
+Content/ParagonMinions/FX/Textures/Environment/T_RevaCliff_D.uasset
